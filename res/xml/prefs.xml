@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:key="username"
+        android:summary="@string/strSummaryUsername"
+        android:title="@string/strUsername" />
+    <EditTextPreference
+        android:key="password"
+        android:password="true"
+        android:summary="@string/strSummaryPassword"
+        android:title="@string/strPassword" />
+    <EditTextPreference
+        android:defaultValue="http://"
+        android:key="serverTwitter"
+        android:summary="@string/strSummaryTwitterServer"
+        android:title="@string/strTwitterServer" />
+    <EditTextPreference
+        android:defaultValue="http://"
+        android:key="server"
+        android:summary="@string/strSummaryServer"
+        android:title="@string/strServer" />
+
+</PreferenceScreen>

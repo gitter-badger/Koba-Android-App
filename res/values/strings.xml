@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pajarraco\'s Koba</string>
+    <string name="tittleStatusUpdate">Status Update</string>
+    <string name="tittleBlog">Pajarraco\'s Blog</string>
+    <string name="tittlePrefs">Preferences</string><string name="tittlePurge">Purge Data</string><string name="tittleTimeline">Timeline</string>
+    
+    <string name="btStatusUpdate">Status Update</string>
+    <string name="btBlog">Get Blog Content</string>
+    <string name="statusUpdateSuss">Update Successfully</string>
+    <string name="statusUpdateFail">Update fail</string>
+    <string name="loadingData">Loading data....</string><string name="strUsername">Username</string>
+    <string name="strSummaryUsername">Please enter your username</string>
+    <string name="strPassword">Password</string>
+    <string name="strSummaryPassword">Please enter your Password</string>
+    <string name="strServer">Server URL</string>
+    <string name="strSummaryServer">Please enter your Server</string>
+    <string name="strTwitterServer">Twitter Server</string>
+    <string name="strSummaryTwitterServer">URL for Twitter Server</string>
+    
+    <string name="msgDialog">Reading Data....</string>
+    
+    <string name="msgAllDataPurge">Your data has been delete</string><string name="hintEditText1">Tell us your status....</string>
+    
+
+</resources>
