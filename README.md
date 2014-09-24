@@ -1,5 +1,5 @@
-Koba
-====
+Koba App
+========
 
 This is a Simple app creating with a Totorial.
 
